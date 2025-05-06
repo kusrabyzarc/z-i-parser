@@ -1,0 +1,14 @@
+meta:
+  version: 1.0
+
+dump_dir: 'dumps'
+sf_base_url: "https://svn.code.sf.net/p/zapret-info/code/"
+db_name: 'database.db'
+reader_block_size: 65536
+
+# Логгирование
+logger_level: 10  # DEBUG
+# logger_level: 20  # INFO
+# logger_level: 30  # WARNING
+# logger_level: 40  # ERROR
+# logger_level: 50  # CRITICAL
